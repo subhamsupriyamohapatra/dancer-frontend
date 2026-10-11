@@ -1,0 +1,6 @@
+{
+  "name": "DANCEONE",
+  "description": "Dance One (All about Dance) - Discovery, classes, workshops, and role workspaces for dancers, instructors, studios, and organizers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
